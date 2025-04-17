@@ -1,0 +1,16 @@
+{
+  "info": [
+    {
+      "name": "Alice",
+      "scores": (98, 87, [45, 78])
+    },
+    {
+      "name": "Bob",
+      "scores": (76, 90, [33, 54])
+    }
+  ],
+  "extra": {
+    "tags": ["fast", { "level": (3, [1, 2)) }],
+    "active": (true, false)
+  }
+}
